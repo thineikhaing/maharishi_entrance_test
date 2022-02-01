@@ -1,4 +1,4 @@
-public class Question21stantonMeasure {
+public class Q7stantonMeasure {
 
     public static void main(String[] args) {
         System.out.println(stantonMeasure(new int[]{1,3,1,1,3,3,2,3,3,3,4}));
